@@ -1,0 +1,8 @@
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\bin\Debug\Clase 2 Ciclos y condiciones.exe.config
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\bin\Debug\Clase 2 Ciclos y condiciones.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\bin\Debug\Clase 2 Ciclos y condiciones.pdb
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\obj\Debug\Clase 2 Ciclos y condiciones.csproj.AssemblyReference.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\obj\Debug\Clase 2 Ciclos y condiciones.csproj.SuggestedBindingRedirects.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\obj\Debug\Clase 2 Ciclos y condiciones.csproj.CoreCompileInputs.cache
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\obj\Debug\Clase 2 Ciclos y condiciones.exe
+F:\ING INFORMATICA UH\PROGRAMACION II\Benjamin Curling 2023\Semana 2\Clase 2 Ciclos y condiciones\Clase 2 Ciclos y condiciones\obj\Debug\Clase 2 Ciclos y condiciones.pdb
